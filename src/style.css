@@ -85,6 +85,7 @@ a:hover {
 
 .hero-title h2 {
   letter-spacing: 0.3rem;
+  color: #6fca3a;
 }
 
 .hero-text {
@@ -94,7 +95,7 @@ a:hover {
 }
 
 .hero-text p {
-  font-size: .7rem;
+  font-size: 1rem;
   font-weight: 500;
   line-height: 1.5rem;
   letter-spacing: 0.3rem;
@@ -124,3 +125,4 @@ a:hover {
   right: 0;
 
 }
+
